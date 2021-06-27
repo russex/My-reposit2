@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: New loops, Configuration: Debug Win32 ------
+1>Source.cpp
+1>C:\Users\Сергей\source\repos\New loops\New loops\Source.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+1>New loops.vcxproj -> C:\Users\Сергей\source\repos\New loops\Debug\New loops.exe
+1>Done building project "New loops.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
